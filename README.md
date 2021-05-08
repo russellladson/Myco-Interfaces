@@ -1,0 +1,8 @@
+# Myco-Interfaces
+Thesis Statement 
+
+Throughout the canon of human-computer interaction, the two agents have always been the machine and the human. Recently, we’ve witnessed speculative interfaces emerge that incorporate organisms such as plants and other species to imagine new types of organic interfaces. One organism, mycelium, has not undergone much exploration in this area. In this project, I am looking to address the following question: how might we use mycelium to facilitate new insights in physical interaction design?
+
+Abstract
+
+Myco-Interfaces is an investigation into the use and application of mycelium, the root system for fungi, in physical interaction design. Mycelium’s biological capabilities allow it to grow and attach itself to any type of organic material. According to geologists and other scientists, they refer to mycelium as “Earth’s Internet.” For example, researchers have found that due to this massive underground network, mycorrhizal network, plants and trees have been able to communicate and send nutrients to each other. Some researchers have confirmed that due to this network, trees can even perceive human activity in the forest. As technologists, we might start to think of this network as a communication protocol. Because of this symbiotic relationship, we can begin to reimagine a new kind of interface - human, fungi, and machine. In this project, I examine how mycelium can be used to explore novel interaction modalities with tangible and intangible sensors. This paper addresses the conductivity of mycelium, capacitive sensing, distance sensing, and motion sensing. These studies provide opportunities for technologists to design speculative fungi-based interfaces.
